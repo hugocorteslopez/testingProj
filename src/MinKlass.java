@@ -11,6 +11,15 @@ public class MinKlass {
         System.out.println("hej");
         System.out.println("hej");
         System.out.println("hej");
+
         System.out.println("hej");
+        System.out.println("hej");
+        System.out.println("hej");
+        System.out.println("hej");
+        System.out.println("hej");
+        System.out.println("hej");
+
+
+
     }
 }
